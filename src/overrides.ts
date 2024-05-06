@@ -22,4 +22,4 @@ export const OPP_MOVE_OVERRIDE = Moves.NONE;
 export const OPP_MOVE_OVERRIDE_2 = Moves.NONE;
 
 export const OPP_SHINY_OVERRIDE = true;
-export const OPP_VARIANT_OVERRIDE = 0;
+export const OPP_VARIANT_OVERRIDE = 1;

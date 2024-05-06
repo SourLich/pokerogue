@@ -21,5 +21,5 @@ export const OPP_ABILITY_OVERRIDE = Abilities.NONE;
 export const OPP_MOVE_OVERRIDE = Moves.NONE;
 export const OPP_MOVE_OVERRIDE_2 = Moves.NONE;
 
-export const OPP_SHINY_OVERRIDE = true;
+export const OPP_SHINY_OVERRIDE = false;
 export const OPP_VARIANT_OVERRIDE = 1;
